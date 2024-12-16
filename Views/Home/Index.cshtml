@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Welkom bij Frituur Het Hoekje!";
+    Layout = "~/Views/Shared/_Layout.cshtml"; 
+}
+
+<div class="container mt-5">
+    <div class="jumbotron text-center">
+        <h1 class="display-4">Welkom bij Frituur Het Hoekje!</h1>
+        <p class="lead">Proef onze heerlijke snacks en geniet van de beste frietjes in de buurt!</p>
+        <hr class="my-4">
+        <p>Klik hieronder om je bestelling te plaatsen of bekijk onze producten.</p>
+        <a class="btn btn-primary btn-lg" href="/Orders/Create" role="button">Bestel Nu</a>
+        <a class="btn btn-secondary btn-lg" href="/Products" role="button">Bekijk Producten</a>
+    </div>
+
+    <h2 class="mt-5 text-center">Onze Populaire Producten</h2>
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card">
+                    <img src="@product.Photo" class="card-img-top" alt="@product.Name">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text">Prijs: € @product.Price</p>
+                        <a href="/Products/Details/@product.Id" class="btn btn-primary">Meer Info</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <footer class="text-center mt-5">
+        <p>&copy; 2024 Frituur Het Hoekje. Alle rechten voorbehouden.</p>
+    </footer>
+</div>

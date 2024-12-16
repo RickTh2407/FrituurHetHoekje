@@ -1,0 +1,32 @@
+﻿@model IEnumerable<FrituurHetHoekje.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@if (Model == null || !Model.Any())
+{
+    <p>No products are available.</p>
+}
+else
+{
+    foreach (var product in Model)
+    {
+        <div class="col-md-3">
+            <div class="card">
+                <img class="card-img-top" src="@product.Photo" alt="@product.Name" />
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <p class="card-text">€ @product.Price</p>
+                    <a href="/Products/Details/@product.Id" class="btn btn-primary">Details</a>
+                </div>
+            </div>
+        </div>
+    }
+}
+

@@ -1,0 +1,30 @@
+﻿@model IEnumerable<FrituurHetHoekje.Models.Order> 
+
+<h2>Order Summaries</h2>
+@foreach (var order in Model)
+{
+    <h3>Order #@order.OrderNr</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var orderProduct in order.OrderProducts)
+            {
+                var item = orderProduct.Product;
+                <tr>
+                    <td>@item.Name</td>
+                    <td>€ @item.Price</td>
+                    <td>@orderProduct.Amount</td>
+                    <td>€ @(item.Price * orderProduct.Amount)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <h4>Total: € @order.TotalPrice</h4> <!-- TotalPrice should now work -->
+}

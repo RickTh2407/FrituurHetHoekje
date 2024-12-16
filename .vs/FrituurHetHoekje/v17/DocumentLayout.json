@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\data\\frituurdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:data\\frituurdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\orders\\ordersummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\orders\\ordersummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\orders\\ordersdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\orders\\ordersdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B527E501-A848-47CE-9406-02AD5B097940}|..\\FrituurHetHoekjeAPI\\FrituurHetHoekjeAPI.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekjeapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Migrations\\20241209150153_AddFrituurDBToDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241209150153_AddFrituurDBToDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Migrations\\20241209143728_AddFrituurDBToDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241209143728_AddFrituurDBToDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|c:\\users\\rickt\\source\\repos\\frituurhethoekje\\migrations\\20241215214012_addfrituurdbtodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E30E9C-D205-4D36-987D-553886730C96}|FrituurHetHoekje.csproj|solutionrelative:migrations\\20241215214012_addfrituurdbtodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T07:41:32.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T14:13:44.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T19:44:04.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T19:45:36.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAcwN4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:51:39.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:25:08.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:22:02.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T21:17:53.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T19:51:50.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:35:57.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Register.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T19:52:12.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:53:07.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:24:52.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:37:04.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:36:40.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241215214012_AddFrituurDbToDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Migrations\\20241215214012_AddFrituurDbToDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241215214012_AddFrituurDbToDatabase.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Migrations\\20241215214012_AddFrituurDbToDatabase.cs",
+              "RelativeToolTip": "Migrations\\20241215214012_AddFrituurDbToDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:40:12.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:10:04.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrituurDB.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Data\\FrituurDB.cs",
+              "RelativeDocumentMoniker": "Data\\FrituurDB.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Data\\FrituurDB.cs",
+              "RelativeToolTip": "Data\\FrituurDB.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:08:56.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T21:18:06.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T21:18:09.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T21:18:17.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Orders\\OrderSummary.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\OrderSummary.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Orders\\OrderSummary.cshtml",
+              "RelativeToolTip": "Views\\Orders\\OrderSummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T20:25:37.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrdersDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Orders\\OrdersDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\OrdersDashboard.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Orders\\OrdersDashboard.cshtml",
+              "RelativeToolTip": "Views\\Orders\\OrdersDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T20:31:25.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T19:47:26.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T19:44:58.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T19:44:56.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:54:35.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekjeAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "..\\FrituurHetHoekjeAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekjeAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "..\\FrituurHetHoekjeAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:13:44.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241209150153_AddFrituurDBToDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Migrations\\20241209150153_AddFrituurDBToDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241209150153_AddFrituurDBToDatabase.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Migrations\\20241209150153_AddFrituurDBToDatabase.cs",
+              "RelativeToolTip": "Migrations\\20241209150153_AddFrituurDBToDatabase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:01:53.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241209143728_AddFrituurDBToDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Migrations\\20241209143728_AddFrituurDBToDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241209143728_AddFrituurDBToDatabase.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\FrituurHetHoekje\\Migrations\\20241209143728_AddFrituurDBToDatabase.cs",
+              "RelativeToolTip": "Migrations\\20241209143728_AddFrituurDBToDatabase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:37:28.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
